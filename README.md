@@ -1,5 +1,5 @@
 ## Olá, eu sou Gabriel Pondaco, estudante de Desenvolvimento Web pela @Trybe
-[![Embaixador - Trybe](https://img.shields.io/badge/Embaixador-Trybe-darkgreen?style=for-the-badge&logo=JavaScript)](https://betrybe.com)
+
 <div align="center">
   <a href="https://github.com/gabrielpondaco">
   <img height="180em" width="456.92px" src="https://github-readme-stats.vercel.app/api?username=gabrielpondaco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@
   <a href="https://instagram.com/gabrielpondaco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielpondaco2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielpondaco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ [![Embaixador - Trybe](https://img.shields.io/badge/Embaixador-Trybe-darkgreen?style=for-the-badge&logo=JavaScript)](https://betrybe.com)
   ![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
  
 </div>

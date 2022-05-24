@@ -1,4 +1,9 @@
 ## Olá, eu sou Gabriel Pondaco, estudante de Desenvolvimento Web pela @Trybe
+Sou apaixonado por Tecnologia, estudei Ciências da Computação e atualmente estudando Desenvolvimento Web na Trybe. Tenho conhecimento em React, JS, CSS, Html e atualmente estudo o módulo de BackEnd com foco em TypeScript, Docker, conceitos de POO e SOLID, Banco de Dados (MySQL e MongoDB) e Node.js.
+
+Fui EmbaixaTryber (como um representante de classe) procurando atuar junto aos colaboradores da Trybe na melhoria da experiência das pessoas estudantes da Turma 19 B, onde pude desenvolver muito o trabalho em equipe na elaboração de projetos baseados em dados.
+
+Sou movido por aprender e desenvolver coisas novas, hoje procuro iniciar minha carreira no mundo da tecnologia com objetivo de impactar positivamente a vida de pessoas.
 
 <div align="center">
   <a href="https://github.com/gabrielpondaco">
